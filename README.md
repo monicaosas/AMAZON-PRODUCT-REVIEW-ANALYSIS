@@ -16,6 +16,27 @@ This project is part of the DSA Data Analysis Capstone and focuses on performing
 - Create price range buckets to analyze product spread
 - Find correlation between ratings and discount levels
 - Build an interactive Excel dashboard for decision-making
+## Data Analysis
+## data visualization
+
+![MONICA AMAZON EXCEL DASHBOARD](https://github.com/user-attachments/assets/d19cfe49-7c8e-4f32-ad13-06e740c76c18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 ## Summary
 Complete analysis with data cleaning, pivotal table and dashboard
 ## Project file
