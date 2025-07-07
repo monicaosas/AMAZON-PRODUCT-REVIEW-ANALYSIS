@@ -18,3 +18,8 @@ This project is part of the DSA Data Analysis Capstone and focuses on performing
 - Build an interactive Excel dashboard for decision-making
 ## Summary
 Complete analysis with data cleaning, pivotal table and dashboard
+## Project file
+### Amazone Case Study 1
+- cleaned data table
+- convert to pivot table
+- translate into dash board 
