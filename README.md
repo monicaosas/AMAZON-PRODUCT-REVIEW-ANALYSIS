@@ -43,4 +43,13 @@ Complete analysis with data cleaning, pivotal table and dashboard
 ### Amazone Case Study 1
 - cleaned data table
 - convert to pivot table
-- translate into dash board 
+- translate into dash board
+
+
+
+   
+
+
+
+
+
