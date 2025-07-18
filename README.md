@@ -45,6 +45,87 @@ Complete analysis with data cleaning, pivotal table and dashboard
 - convert to pivot table
 - translate into dash board
 
+  #PALMORIA HR EMPLOYEE DATA
+
+  ![7a8d024e-860f-43b4-9455-eb55be193063](https://github.com/user-attachments/assets/6456c730-3809-4518-b720-a1382c49fba3)
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+###SECOND TABLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
 
 
    
